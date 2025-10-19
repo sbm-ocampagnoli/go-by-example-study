@@ -11,6 +11,7 @@ Each `.go` file is a small, focused example that mirrors a topic from Go by Exam
 - `constant.go` — constants and iota
 - `for.go` — looping with `for`
 - `if-else.go` — conditional logic with if/else
+- `switch.go` — branching with `switch`
 
 I’ll keep adding more examples as I go through the topics.
 
@@ -27,6 +28,7 @@ go run .\values.go
 go run .\constant.go
 go run .\for.go
 go run .\if-else.go
+go run .\switch.go
 ```
 
 Tip: You can check your Go version with:
