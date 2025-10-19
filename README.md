@@ -12,6 +12,7 @@ Each `.go` file is a small, focused example that mirrors a topic from Go by Exam
 - `for.go` — looping with `for`
 - `if-else.go` — conditional logic with if/else
 - `switch.go` — branching with `switch`
+- `arrays.go` — arrays and indexing
 
 I’ll keep adding more examples as I go through the topics.
 
@@ -29,6 +30,7 @@ go run .\constant.go
 go run .\for.go
 go run .\if-else.go
 go run .\switch.go
+go run .\arrays.go
 ```
 
 Tip: You can check your Go version with:
